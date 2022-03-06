@@ -11,4 +11,8 @@
 
 <p>React.js, JavaScript, Html5, Css3, Git e Github</p>
 
-<
+<strong>Imagem do Projeto</strong>
+
+
+<img>![Captura de tela 2022-03-06 163116](https://user-images.githubusercontent.com/87048226/156939179-5932488c-9b16-4da3-8f2d-b878f6603f2c.png)
+</img>
