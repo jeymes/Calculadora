@@ -8,10 +8,10 @@
     background-color: transparent;
     color: #f0f0f0;
     border: none;
-    border: 1px solid #888;
+    border: 1px solid whitesmoke;
     border-radius: 50px;
     outline: none;
-    text-shadow: 1px 1px 5px #1d1d1d;
+    text-shadow: 1.5px 1.5px 2px #101010;
     transform: scale(0.9);
     transition: all 0.2s;
 }

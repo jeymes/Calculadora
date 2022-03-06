@@ -1,7 +1,6 @@
 .display{
     grid-column: span 4;
-    background-color: rgba(0,0,0,0.5);
-    border-bottom: 2px solid white;
+    border-bottom: 1px solid whitesmoke;
     color: white;
     display: flex;
     justify-content: flex-end;
