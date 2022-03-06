@@ -1,0 +1,17 @@
+*{
+  font-family: 'Lucida Sans',sans-serif;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+
+  color: #fff;
+  background-image: url('../public/img/beyond_stars_by_hekkoto_detgz2e-pre.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}

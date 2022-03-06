@@ -1,0 +1,40 @@
+:root{
+    --bg--button: #f0f0f0;
+    --border-button: solid 1px #888
+}
+
+.button{
+    font-size: 1.5rem;
+    background-color: transparent;
+    color: #f0f0f0;
+    border: none;
+    border: 1px solid #888;
+    border-radius: 50px;
+    outline: none;
+    text-shadow: 1px 1px 5px #1d1d1d;
+    transform: scale(0.9);
+    transition: all 0.2s;
+}
+.button:hover{
+    transform: scale(1);
+
+}
+    .button:active{
+        background-color: rgba(0,0,0,0.6);
+        border: 1px solid rgb(0, 132, 255);
+    }
+
+    .button.double{
+        grid-column: span 2;
+    }
+    .button.triple{
+        grid-column: span 3;
+    }
+
+    .button.operation{
+        background-color: transparent;
+        color: white;
+    }
+    .button.operation:active{
+        background-color: rgba(0,0,0,0.6);
+    }
